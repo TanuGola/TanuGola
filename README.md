@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TanuGola
+- 👋 Hi, I’m TanuGola
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning HTML,CSS,JavaScript.
 - 📫 How to reach me tanu.gola_cs20@gla.ac.in
