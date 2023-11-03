@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
 
-- 🌱 I’m currently learning **JavaScript, PHP, jQuery**
+- 🌱 I’m currently learning **AJAX, PHP, jQuery**
 
 - 📫 How to reach me **tanugola09@gmail.com**
 
