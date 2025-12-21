@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanu Gola</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
 
-- 🌱 I’m currently learning **Generative AI ,UI, UX**
+- 🌱 I’m currently learning **Node.js UI/UX**
 
 - 📫 How to reach me **tanugola09@gmail.com**
 
