@@ -14,7 +14,7 @@
 ### 🚀 About Me
 
 - 👩‍💻 Full Stack Developer with **nearly  2 years** of experience building scalable web apps & B2B SaaS integrations
-- 🏢 Delivered **6 production HR/ATS integrations** end-to-end (RazorpayX, JazzHR, Keka, Jobvite, HROne, FactoHR) at **Springworks Technologies**
+- 🏢 Delivered **6 production HR/ATS integrations** end-to-end at **Springworks Technologies**
 - 🎨 Built reusable component systems & optimized performance for the **IKEA Digital Platform** at **Capgemini**
 - 🤖 Hands-on with **GenAI/LLM integration** — OpenAI GPT-4, Google Gemini APIs, prompt engineering, structured output parsing
 - 📚 Currently exploring **Angular**, **C**, and other in-demand languages/frameworks to keep expanding my stack
